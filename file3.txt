@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file is from master
+
+this file is from featurebranch1
+>>>>>>> featurebranch1
